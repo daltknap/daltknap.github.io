@@ -2,8 +2,8 @@
   <body>
     <div>
       <navbar></navbar>
-      <div class="title em">
-        <h1><b><u>About Me</u></b></h1>
+      <div class="title em under">
+        <h1><b>About Me</b></h1>
       </div>
       <div class="set">
         <div class="object">
@@ -191,5 +191,11 @@ export default {
 
 .barcolor {
   background-color: #479761 !important;
+}
+.under {
+  border-bottom: 3px solid #19181A;
+  padding-bottom: 2px;
+  width: 270px;
+  margin: auto;
 }
 </style>
