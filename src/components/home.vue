@@ -73,16 +73,16 @@
               <span class="sr-only">65%</span>
             </div>
           </div>
-          <h6 class="otra">Vue.js</h6>
-          <div class="progress">
-            <div class="progress-bar barcolor" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:60%">
-              <span class="sr-only">60%</span>
-            </div>
-          </div>
           <h6 class="otra">jQuery</h6>
           <div class="progress">
             <div class="progress-bar barcolor" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:55%">
               <span class="sr-only">55%</span>
+            </div>
+          </div>
+          <h6 class="otra">Vue.js</h6>
+          <div class="progress">
+            <div class="progress-bar barcolor" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+              <span class="sr-only">60%</span>
             </div>
           </div>
           <h6 class="otra">React.js</h6>
