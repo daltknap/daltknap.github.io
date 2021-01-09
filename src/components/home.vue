@@ -32,7 +32,7 @@
           <div class="resume">
             <h3 class="sub">Click the button below to view my resume!</h3>
             <a class="btn btn-success extr changebutton"
-            href="https://drive.google.com/file/d/1U9aBh9AExlVIH1gcmzZWMODlTgXCwmps/view?usp=sharing" 
+            href="https://drive.google.com/file/d/1U9aBh9AExlVIH1gcmzZWMODlTgXCwmps/view?usp=sharing"
             target="_blank">View Resume</a>
           </div>
         </div>
