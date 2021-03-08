@@ -105,7 +105,7 @@
           </div>
           <h6 class="otra">SQL</h6>
           <div class="progress">
-            <div class="progress-bar barcolor" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:20%">
+            <div class="progress-bar barcolor" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:25%">
               <span class="sr-only">25%</span>
             </div>
           </div>
