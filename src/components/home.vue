@@ -32,7 +32,7 @@
           <div class="resume">
             <h3 class="sub">Click the button below to view my resume!</h3>
             <a class="btn btn-success extr changebutton"
-            href="https://drive.google.com/file/d/1U9aBh9AExlVIH1gcmzZWMODlTgXCwmps/view?usp=sharing"
+            href=""
             target="_blank">View Resume</a>
           </div>
         </div>
@@ -103,10 +103,10 @@
               <span class="sr-only">30%</span>
             </div>
           </div>
-          <h6 class="otra">SQLite</h6>
+          <h6 class="otra">SQL</h6>
           <div class="progress">
             <div class="progress-bar barcolor" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:20%">
-              <span class="sr-only">20%</span>
+              <span class="sr-only">25%</span>
             </div>
           </div>
         </div>

@@ -12,7 +12,7 @@
             <a href="https://www.linkedin.com/in/daltonknapp"><img src="../assets/linkedin.png" alt="Link to Linkedin Profile"></a>
         </div>
         <div class="links5">
-            <a class="nav-link" href="https://drive.google.com/file/d/1U9aBh9AExlVIH1gcmzZWMODlTgXCwmps/view?usp=sharing">Resume</a>
+            <a class="nav-link" href="">Resume</a>
         </div>
     </footer>
 </div>
