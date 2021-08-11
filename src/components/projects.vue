@@ -11,8 +11,8 @@
             <h5 class="card-title"><b>This Website</b></h5>
             <p class="cart-text p1">Vue.js, Bootstrap</p>
             <div>
-              <b-button v-b-modal.webmodal pill variant="primary" dark>View More</b-button>
-              <b-modal id="webmodal" ok-only centered title="This Website">
+              <b-button v-b-modal.websitemodal pill variant="primary" dark>View More</b-button>
+              <b-modal id="websitemodal" ok-only centered title="This Website">
                 <p class="my-4">This website was built using Vue-2, HTML, CSS and Bootstrap!
                   <br>Click the GitHub logo below to see the code for it!<br><br>
                   <a href="https://github.com/daltknap/daltknap.github.io"><img src="../assets/githubblack.png" alt="Link to Github"></a>
@@ -38,6 +38,109 @@
                   It was built using HTML, CSS, JavaScript and jQuery.
                   <br>Click the GitHub logo below to see the code for it!<br><br>
                   <a href="https://github.com/daltknap/snowballFight"><img src="../assets/githubblack.png" alt="Link to Github"></a>
+                </p>
+              </b-modal>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr class="hr1">
+      <h1 class="hd">EECS 388: Introduction to Computer Security</h1>
+      <div class="set">
+        <div class="card indiv">
+          <img class="card-img-top bod" src="../assets/crypto.png" alt="Card image cap"/>
+          <div class="card-body col">
+            <h5 class="card-title"><b>Cryptography</b></h5>
+            <p class="cart-text p1">Python</p>
+            <div>
+              <b-button v-b-modal.cryptomodal pill variant="primary" dark>View More</b-button>
+              <b-modal id="cryptomodal" ok-only centered title="Cryptography">
+                <p class="my-4">This project focused on investigating vulnerable applications of 
+                  cryptography. In part one, the authentication capability of an imaginary server 
+                  API was attacked by exploiting the length-extension vulnerability of hash 
+                  functions in the MD5 and SHA families. Part two of the project consisted of 
+                  using the fastcoll tool made by Marc Stevens to generate MD5 hash collisions, 
+                  and then exploited them to conceal malicious behavior in software. In part three 
+                  of the project, frequency analysis was used to break a Vigenère Cipher. In the 
+                  next part, vulnerable RSA padding was exploited to forge a digital signature 
+                  through Bleichenbacher’s Attack. The final part of the project consisted of 
+                  exploiting a cipher block chaining padding oracle with a chosen cipher text attack, 
+                  which decrypted a message without knowing the key.
+                </p>
+              </b-modal>
+            </div>
+          </div>
+        </div>
+        <div class="card indiv">
+          <img class="card-img-top bod" src="../assets/web.png" alt="Card image cap"/>
+          <div class="card-body col">
+            <h5 class="card-title"><b>Web Security</b></h5>
+            <p class="cart-text p1">HTML, JavaScript, SQL</p>
+            <div>
+              <b-button v-b-modal.webmodal pill variant="primary" dark>View More</b-button>
+              <b-modal id="webmodal" ok-only centered title="Web Security">
+                <p class="my-4">This project focused on gaining the ability to spot common 
+                  vulnerabilities in websites, and how to exploit various flawed defenses for the 
+                  vulnerabilities. First, we were able to log in as an arbitrary user using SQL 
+                  injection attacks. In part two, cross-site scripting (XSS) attacks were used to 
+                  exploit the search bar which did not properly filter search terms before echoing 
+                  them into the results page. In the final part, cross-site request forgery (CSRF) 
+                  attacks were used to exploit vulnerabilities in the login form, which caused 
+                  clients to login to an account we controlled.
+                </p>
+              </b-modal>
+            </div>
+          </div>
+        </div>
+        <div class="card indiv">
+          <img class="card-img-top bod" src="../assets/networking.png" alt="Card image cap"/>
+          <div class="card-body col">
+            <h5 class="card-title"><b>Networking</b></h5>
+            <p class="cart-text p1">Go</p>
+            <div>
+              <b-button v-b-modal.networkingmodal pill variant="primary" dark>View More</b-button>
+              <b-modal id="networkingmodal" ok-only centered title="Networking">
+                <p class="my-4">This project focused on network protocols, network packet trace 
+                  analysis, and common network attacks. Offensive techniques were used to intercept 
+                  and manipulate network traffic, through the use of man-in-the-middle attacks. 
+                </p>
+              </b-modal>
+            </div>
+          </div>
+        </div>
+        <div class="card indiv">
+          <img class="card-img-top bod" src="../assets/application.png" alt="Card image cap"/>
+          <div class="card-body col">
+            <h5 class="card-title"><b>Application Security</b></h5>
+            <p class="cart-text p1">Python</p>
+            <div>
+              <b-button v-b-modal.applicationmodal pill variant="primary" dark>View More</b-button>
+              <b-modal id="applicationmodal" ok-only centered title="Application Security">
+                <p class="my-4">This project focused on exploiting control-flow hijacking 
+                  vulnerabilities like buffer overflows in application software. Gained the 
+                  ability to identify and avoid buffer overflow vulnerabilities in native 
+                  code, and understand the severity of buffer overflows. 
+                </p>
+              </b-modal>
+            </div>
+          </div>
+        </div>
+        <div class="card indiv">
+          <img class="card-img-top bod" src="../assets/forensics.png" alt="Card image cap"/>
+          <div class="card-body col">
+            <h5 class="card-title"><b>Forensics</b></h5>
+            <p class="cart-text p1">Hard Drive Investigation</p>
+            <div>
+              <b-button v-b-modal.forensicsmodal pill variant="primary" dark>View More</b-button>
+              <b-modal id="forensicsmodal" ok-only centered title="Forensics">
+                <p class="my-4">In this project, I played the role of a forensic analyst and 
+                  investigated the theft of company secrets. The hard disk was decrypted, and 
+                  forensic examination of the disk image was performed. Learned how computer 
+                  use can leave persistent traces and why such evidence is often difficult to 
+                  remove or conceal, while gaining experience in forensic techniques to 
+                  investigate computer misuse and intrusion. Project also highlighted how to 
+                  retrieve information from a disk image without booting the operating system, 
+                  and understanding why this is necessary to preserve forensic integrity.
                 </p>
               </b-modal>
             </div>

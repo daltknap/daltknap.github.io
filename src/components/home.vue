@@ -10,7 +10,7 @@
           <div class="bio">
             <h3 class="sub">Bio</h3>
             <p class="otra">
-              Hello and welcome to my website! I am currently a junior at the Univeristy of Michigan,
+              Hello and welcome to my website! I am currently a senior at the Univeristy of Michigan,
               studying computer science in the College of Engineering with a minor in Gender, Race and Nation.
               I am passionate about finding new and innovative solutions along with helping improve people's
               lives, which is why I decided to enter the computer science field. I take every opportunity I can
